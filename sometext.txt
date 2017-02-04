@@ -1,2 +1,1 @@
-dog
-ponies
+this is double nice sometext.txt file
