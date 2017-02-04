@@ -1,1 +1,1 @@
-this is nice sometext.txt file
+this is double nice sometext.txt file
