@@ -1,1 +1,2 @@
 this is double nice sometext.txt file
+this is text on crappy branch.
