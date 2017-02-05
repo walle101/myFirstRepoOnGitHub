@@ -1,2 +1,2 @@
-etc etc dog
-etc etc etc
+this is double nice sometext.txt file
+this is text on crappy branch.
